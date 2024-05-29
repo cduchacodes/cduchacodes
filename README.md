@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @cduchacodes
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @cduchacodes {Clement Ducharne}
+- 👀 I’m interested in artificial intelligence and web dev
+- 🌱 I’m currently learning web development
 - 📫 You can reach me at cle.ducharne@gmail.com!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+
 
 <!---
 cduchacodes/cduchacodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
